@@ -9,7 +9,7 @@
         <li class="nav-item">
             <a class="nav-link text-primary fw-bold d-flex align-items-center"
                asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
-                <i class="fas fa-user-circle me-1"></i> Hello, @User.Identity.Name!
+                <i class="fas fa-user-circle me-1"></i> Xin chào, @User.Identity.Name!
             </a>
         </li>
         <li class="nav-item">
@@ -17,7 +17,7 @@
                   asp-area="Identity" asp-page="/Account/Logout"
                   asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
                 <button type="submit" class="nav-link btn btn-link text-danger fw-bold">
-                    <i class="fas fa-sign-out-alt btn-danger"></i> Logout
+                    <i class="fas fa-sign-out-alt btn-danger"></i> Đăng xuất
                 </button>
             </form>
         </li>
@@ -25,17 +25,15 @@
     else
     {
         <li class="nav-item">
-            <a class="nav-link text-dark fw-semibold" asp-area="Identity" asp-page="/Account/Register">
-                <i class="fas fa-user-plus"></i> Register
+            <a class="nav-link text-dark fw-semibold" asp-area="Identity" asp-page="/Account/Login">
+                <i class="fas"></i> Đăng nhập
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-dark fw-semibold" asp-area="Identity" asp-page="/Account/Login">
-                <i class="fas fa-sign-in-alt"></i> Login
+            <a class="nav-link text-dark fw-semibold" asp-area="Identity" asp-page="/Account/Register">
+                <i class="fas "></i> Đăng ký
             </a>
         </li>
-        @* <li class="nav-item">
-            <a href="/signin-google" class="btn btn-primary">Sign in with Google</a>
-        </li> *@
+        
     }
 </ul>

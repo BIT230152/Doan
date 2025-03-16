@@ -41,23 +41,24 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
 
-            //services.AddRazorPages();
+         
+            services.AddAuthentication()
+                    .AddGoogle(googleOptions =>
+                    {
+                        // Đọc thông tin Authentication:Google từ appsettings.json
+                        IConfigurationSection googleAuthNSection = Configuration.GetSection("Authentication:Google");
 
-            //services.AddAuthentication(options =>
-            //{
-            //    options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-            //    options.DefaultChallengeScheme = GoogleDefaults.AuthenticationScheme;
-            //})
-            //.AddCookie()
-            //.AddGoogle(options =>
-            //{
-            //    IConfigurationSection googleAuthNSection =
-            //        Configuration.GetSection("Authentication:Google");
+                        // Thiết lập ClientID và ClientSecret để truy cập API google
+                        googleOptions.ClientId = googleAuthNSection["ClientId"];
+                        googleOptions.ClientSecret = googleAuthNSection["ClientSecret"];
+                        // Cấu hình Url callback lại từ Google (không thiết lập thì mặc định là /signin-google)
+                        googleOptions.CallbackPath = "/dang-nhap-tu-google";
 
-            //    options.ClientId = googleAuthNSection["ClientId"];
-            //    options.ClientSecret = googleAuthNSection["ClientSecret"];
-            //    options.CallbackPath = googleAuthNSection["CallbackPath"];
-            //});
+
+                    });
+
+            services.AddRazorPages();
+
         }
 
         //This method gets called by the runtime.Use this method to configure the HTTP request pipeline.
@@ -79,8 +80,9 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM
 
             app.UseRouting();
 
-            app.UseAuthentication();
-            app.UseAuthorization();
+            app.UseAuthentication(); // Phục hồi thông tin đăng nhập (xác thực)
+            app.UseAuthorization(); // Phục hồi thông tinn về quyền của User
+
 
             app.UseEndpoints(endpoints =>
             {

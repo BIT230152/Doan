@@ -7,9 +7,9 @@
 <h1>Details</h1>
 
 <div>
-    <h4>Category</h4>
+    <h4 class="text-white">Phân loại</h4>
     <hr />
-    <dl class="row">
+    <dl class="row card">
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Name)
         </dt>
@@ -19,6 +19,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <button class="btn-group"><a asp-action="Edit" asp-route-id="@Model.Id">Edit</a></button> |
+    <button class="btn-group"><a asp-action="Index">Back to List</a></button>
 </div>

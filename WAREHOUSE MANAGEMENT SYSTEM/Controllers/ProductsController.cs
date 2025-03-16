@@ -135,7 +135,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         // POST: Products/Create
         [HttpPost]
         [ValidateAntiForgeryToken]  //BE Part 
-        public async Task<IActionResult> Create([Bind("Name,Description,Cost,Price,Count,ImageUrl,CategoryId,Id")] Product product)
+        public async Task<IActionResult> Create([Bind("Name,Description,Count,EntryDate,ExitDate,Cost,Price,ImageUrl,CategoryId,Id")] Product product)
         {
             if (ModelState.IsValid)
             {
@@ -168,7 +168,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         // POST: Products/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("Name,Description,Cost,Price,Count,ImageUrl,CategoryId,Id")] Product product)
+        public async Task<IActionResult> Edit(Guid id, [Bind("Name,Description,Count,EntryDate,ExitDate,Cost,Price,ImageUrl,CategoryId,Id")] Product product)
         {
             if (id != product.Id)
             {

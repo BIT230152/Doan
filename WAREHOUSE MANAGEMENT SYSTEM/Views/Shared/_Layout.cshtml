@@ -9,48 +9,67 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.0/dist/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
+    <style>
+        body {
+            background-image: url('https://img.lovepik.com/bg/20240403/Enhance-Warehouse-Efficiency-with-3D-Illustrated-Logistics-Robot-System-and_5790591_wh300.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom box-shadow mb-3 fixed-top">
             <div class="container">
                 <a class="navbar-brand fw-bold text-primary" asp-area="" asp-controller="Home" asp-action="Index">
-                    <i class="fas fa-warehouse"></i> WAREHOUSE_MANAGEMENT_SYSTEM
+                    <i class="fas fa-warehouse"></i> PHẦN MỀM QUẢN LÝ KHO
                     </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
+                @if (User.Identity.IsAuthenticated)
+                {
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                               <a class="nav-link btn-primary" asp-area="" asp-controller="Home" asp-action="Privacy">Thống kê</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Categories" asp-action="Index">Categories</a>
+                            <a class="nav-link btn-primary" asp-area="" asp-controller="Categories" asp-action="Index">Phân loại</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="Index">Sản phẩm</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="SearchForm">Search</a>
+                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="SearchForm">Tìm kiếm</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn-primary" >Lịch sử</a>
+                            </li>
                     </ul>
-
-
-
                     <partial name="_LoginPartial" />
                 </div>
+                }
+                else
+                {
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1"></ul>
+                            
+                        <partial name="_LoginPartial" />
+                    </div>
+
+                }
             </div>
         </nav>
     </header>
-    <div class="container mt-3">
-        <main role="main" class="pb-3">
+    <div class="container mt-3 ">
+        <main role="main" class="pb-5">
             @RenderBody()
         </main>
     </div>

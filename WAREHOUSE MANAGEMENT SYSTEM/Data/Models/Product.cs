@@ -2,31 +2,56 @@
 {
     using System;
     using System.ComponentModel.DataAnnotations;
+    using System.Runtime.InteropServices;
 
     public class Product : BaseModel
     {
 
         [Required]
-        [MaxLength(50, ErrorMessage = "Максималната дължина на полето 'Име на продукта' е 50 символа")]
+        [Display(Name = "Tên sản phẩm")]
+        [MaxLength(50, ErrorMessage = "Độ dài tối đa của trường 'Tên sản phẩm' là 50 ký tự")]
         public string Name { get; set; }
 
-        [MaxLength(2000, ErrorMessage = "Максималната дължина на полето 'Име на продукта' е 2000 символа")]
+        [Display(Name = "Miêu tả")]
+        [MaxLength(2000, ErrorMessage = "Độ dài tối đa của trường 'Miêu tả' là 200 0 ký tự")]
         public string Description { get; set; }
 
         [Required]
-        [Range(0, 999999, ErrorMessage = "Can not be less than 0...more than 999 999")]
-        public decimal Cost { get; set; } //bought
-
-        [Required]
-        [Range(0, 999999, ErrorMessage = "Can not be less than 0... more than 999 999")]
-        public decimal Price { get; set; } //for sale
-
-        [Required]
-        [Range(0, 9000, ErrorMessage = "Can not be less than 0... more than 9000")]
+        [Display(Name = "Số lượng")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "Số lượng sản phẩm không thể dưới 0.01")]
         public int Count { get; set; }
 
-       
+        [Required]
+        [Display(Name = "Ngày nhập")]
+        [DataType(DataType.Date)]
+        public DateTime EntryDate { get; set; }
+
+        [Required]
+        [Display(Name = "Ngày xuất")]
+        [DataType(DataType.Date)]
+        public DateTime ExitDate { get; set; }
+
+        [Required]
+        [Display(Name = "Giá mua")]
+        [DisplayFormat(DataFormatString = "{0:N0} VNĐ", ApplyFormatInEditMode = false)]
+        [Range(0.01, double.MaxValue, ErrorMessage = "Giá mua không thể dưới 0.01")]
+        public decimal Cost { get; set; }
+
+        [Required]
+        [Display(Name = "Giá bán")]
+        [DisplayFormat(DataFormatString = "{0:N0} VNĐ", ApplyFormatInEditMode = false)]
+        [Range(0.01, double.MaxValue, ErrorMessage = "Giá bán không thể dưới 0.01")]
+        public decimal Price { get; set; }
+
+
+
+        [Display(Name = "Hình ảnh")]
+        [Url(ErrorMessage = "URL không hợp lệ")]
         public string ImageUrl { get; set; }
+
+
+
+        [Required]
         public Guid CategoryId { get; set; }
         public Category Category { get; set; }
 
