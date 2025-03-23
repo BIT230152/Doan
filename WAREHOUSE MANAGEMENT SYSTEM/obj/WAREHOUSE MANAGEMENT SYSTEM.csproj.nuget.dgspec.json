@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj": {}
+    "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj",
         "projectName": "WAREHOUSE MANAGEMENT SYSTEM",
-        "projectPath": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,9 +92,21 @@
               "target": "Package",
               "version": "[8.0.13, )"
             },
+            "Microsoft.Jupyter.Core": {
+              "target": "Package",
+              "version": "[3.1.235334, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Python.Included": {
+              "target": "Package",
+              "version": "[3.11.6, )"
+            },
+            "Python.Runtime": {
+              "target": "Package",
+              "version": "[2.7.9, )"
             }
           },
           "imports": [

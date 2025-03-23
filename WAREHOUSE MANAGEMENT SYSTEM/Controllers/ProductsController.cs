@@ -9,6 +9,8 @@ using Microsoft.EntityFrameworkCore;
 using WAREHOUSE_MANAGEMENT_SYSTEM.Data;
 using WAREHOUSE_MANAGEMENT_SYSTEM.Data.Models;
 using WAREHOUSE_MANAGEMENT_SYSTEM.Models;
+using WAREHOUSE_MANAGEMENT_SYSTEM.Services;
+using System.IO;
 
 namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
 {
@@ -21,8 +23,22 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         {
             _context = context;
         }
-      
-        
+
+       
+        private static readonly string logFilePath = "Logs/HistoryLog.txt";
+
+        // Action để hiển thị lịch sử
+        public async Task<IActionResult> History()
+        {
+            if (!System.IO.File.Exists(logFilePath))
+            {
+                return View("History", new List<string> { "Không có dữ liệu lịch sử." });
+            }
+
+            var logs = await System.IO.File.ReadAllLinesAsync(logFilePath);
+            return View("History", logs.ToList());
+        }
+
         // GET: Products
         [Authorize]
         /* public async Task<IActionResult> Index(string sortOrder, int pg = 1)
@@ -142,7 +158,12 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
                 product.Id = Guid.NewGuid();
                 _context.Add(product);
                 await _context.SaveChangesAsync();
+
+                // Ghi vào file log
+                LogHelper.WriteLog("Thêm", product.Name, product.Count);
+
                 return RedirectToAction(nameof(Index));
+
             }
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
@@ -179,8 +200,18 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
             {
                 try
                 {
+                    // Lấy thông tin cũ trước khi cập nhật
+                    var oldProduct = await _context.Products.AsNoTracking().FirstOrDefaultAsync(p => p.Id == id);
+                    if (oldProduct == null)
+                    {
+                        return NotFound();
+                    }
+
                     _context.Update(product);
                     await _context.SaveChangesAsync();
+
+                    // Ghi log thay đổi
+                    LogHelper.WriteLog("Sửa", product.Name, product.Count);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -224,8 +255,14 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
             var product = await _context.Products.FindAsync(id);
-            _context.Products.Remove(product);
-            await _context.SaveChangesAsync();
+            if (product != null)
+            {
+                // Ghi log trước khi xóa
+                LogHelper.WriteLog("Xóa", product.Name, product.Count);
+
+                _context.Products.Remove(product);
+                await _context.SaveChangesAsync();
+            }
             return RedirectToAction(nameof(Index));
         }
 

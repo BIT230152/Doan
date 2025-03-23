@@ -25,7 +25,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.Jupyter.Core" Version="3.1.235334" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+    <PackageReference Include="Python.Included" Version="3.11.6" />
+    <PackageReference Include="Python.Runtime" Version="2.7.9" />
   </ItemGroup>
 
 </Project>

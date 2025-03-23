@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gFOqeaYfsuMIJZDMx+RJFh9eli1BRbi6QyCCDf5y3ak=",
+  "Hash": "QAQUyrl4mN0+9Akmzr/TPC+mEqGTuF0iR2YvGKcFRjE=",
   "Source": "WAREHOUSE MANAGEMENT SYSTEM",
   "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WAREHOUSE MANAGEMENT SYSTEM\\wwwroot",
       "Source": "WAREHOUSE MANAGEMENT SYSTEM",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.13\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/MyStyle#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1291,17 +1291,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zex3814up8",
-      "Integrity": "Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=",
+      "Fingerprint": "9szavqry95",
+      "Integrity": "V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\MyStyle.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/Neon#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1312,17 +1312,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m2qdhp1bwk",
-      "Integrity": "wrUMVz5jhNCHH5xccgomuHdvYxRRmubVhlVnEt2s+dM=",
+      "Fingerprint": "dg5hpaljqt",
+      "Integrity": "3WaAbt9ASvN7quDpigWzAcMkzCrzYhqnjGDfnEGM4HQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Neon.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/Simplex#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1333,17 +1333,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wopto919bd",
-      "Integrity": "sKzlLTPqC7KgHMeJXYJ8Odpy9xtDF8Pv4YL+7XPX9Mc=",
+      "Fingerprint": "z70tq6bare",
+      "Integrity": "ofdp4SVFGqWtxh90lDRAVVsPGjCgdKgD7aucZFm3wrU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Simplex.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1354,17 +1354,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hdhjllpya4",
-      "Integrity": "S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=",
+      "Fingerprint": "hz0fgozk9j",
+      "Integrity": "Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/slate#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1375,17 +1375,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qbyje9q9yx",
-      "Integrity": "hqbSSiFc0axSUC0zCV1bbul1L0SgyTCHEHlGYECO0Xc=",
+      "Fingerprint": "wqvop1adda",
+      "Integrity": "SAwe1SaiT3OpZrhXJISb1au/mKO7JH7gyHkU4nlmRDM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\slate.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/Superhero#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1396,17 +1396,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o8gnl3yxyi",
-      "Integrity": "+DJrBOq6PDJynI38QQChX79eEEQqccDJyN0+5SJUMBA=",
+      "Fingerprint": "fzj2xnqd3i",
+      "Integrity": "qy6w9jkAAftjJt4zmTWPY8UDsLegllvxTWGR5REGPkU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Superhero.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "css/WMSstyle#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1417,17 +1417,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zex3814up8",
-      "Integrity": "Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=",
+      "Fingerprint": "9szavqry95",
+      "Integrity": "V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\WMSstyle.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1459,17 +1459,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6b9nfc4n3r",
-      "Integrity": "4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=",
+      "Fingerprint": "bnkqy1y0r8",
+      "Integrity": "BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1480,17 +1480,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gawgt6fljy",
-      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1522,17 +1522,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "etnb7xlipe",
-      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "Fingerprint": "o2wlpouf80",
+      "Integrity": "YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1564,17 +1564,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9n0ta5ieki",
-      "Integrity": "ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=",
+      "Fingerprint": "w0dq6fgsfq",
+      "Integrity": "cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1606,17 +1606,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vxs71z90fw",
-      "Integrity": "vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=",
+      "Fingerprint": "jfiryafmb9",
+      "Integrity": "D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1648,17 +1648,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nynt4yc5xr",
-      "Integrity": "cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=",
+      "Fingerprint": "xld2at289l",
+      "Integrity": "Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1690,17 +1690,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "brwg1hntyu",
-      "Integrity": "1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=",
+      "Fingerprint": "0lwmuixho7",
+      "Integrity": "dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1732,17 +1732,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u0biprgly9",
-      "Integrity": "srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=",
+      "Fingerprint": "p3y4typtg5",
+      "Integrity": "pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1774,17 +1774,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hjuzisly30",
-      "Integrity": "XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=",
+      "Fingerprint": "7axo73ywwa",
+      "Integrity": "fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1816,17 +1816,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "48vr37mrsy",
-      "Integrity": "LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=",
+      "Fingerprint": "qb0o6k7924",
+      "Integrity": "pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1858,17 +1858,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zu238p5lxg",
-      "Integrity": "O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=",
+      "Fingerprint": "m8so7gk97h",
+      "Integrity": "CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1900,17 +1900,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "weyt030wr8",
-      "Integrity": "iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=",
+      "Fingerprint": "r0em2mp8p1",
+      "Integrity": "e9q0SUxz49cnGnDTlZR6nrKmjwjZh0D8IwiEPjGSmPk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1984,17 +1984,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "afgyafcsqt",
-      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "Fingerprint": "rkkog0v3vw",
+      "Integrity": "Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2005,17 +2005,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wus95c49fh",
-      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "Fingerprint": "o2fui7xoca",
+      "Integrity": "0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2026,17 +2026,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sjab29p8z5",
-      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "Fingerprint": "3rqbzy5c3x",
+      "Integrity": "0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2089,17 +2089,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x0q3zqp4vz",
-      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "Fingerprint": "xzw0cte36n",
+      "Integrity": "85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WAREHOUSE MANAGEMENT SYSTEM",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\",
       "BasePath": "_content/WAREHOUSE MANAGEMENT SYSTEM",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2152,8 +2152,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wqejeusuyq",
-      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "Fingerprint": "4ez5mqxv2b",
+      "Integrity": "bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
@@ -2161,8 +2161,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/MyStyle.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
+      "Route": "css/MyStyle.9szavqry95.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2171,7 +2171,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "303877"
+          "Value": "290638"
         },
         {
           "Name": "Content-Type",
@@ -2179,48 +2179,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=\""
+          "Value": "\"V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Feb 2025 00:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI="
-        }
-      ]
-    },
-    {
-      "Route": "css/MyStyle.zex3814up8.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "303877"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Feb 2025 00:54:55 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2230,7 +2193,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zex3814up8"
+          "Value": "9szavqry95"
         },
         {
           "Name": "label",
@@ -2238,13 +2201,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI="
+          "Value": "sha256-V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0="
         }
       ]
     },
     {
-      "Route": "css/Neon.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
+      "Route": "css/MyStyle.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\MyStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2253,7 +2216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "296519"
+          "Value": "290638"
         },
         {
           "Name": "Content-Type",
@@ -2261,11 +2224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrUMVz5jhNCHH5xccgomuHdvYxRRmubVhlVnEt2s+dM=\""
+          "Value": "\"V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:20:43 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2275,13 +2238,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wrUMVz5jhNCHH5xccgomuHdvYxRRmubVhlVnEt2s+dM="
+          "Value": "sha256-V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0="
         }
       ]
     },
     {
-      "Route": "css/Neon.m2qdhp1bwk.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
+      "Route": "css/Neon.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2290,7 +2253,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "296519"
+          "Value": "283501"
         },
         {
           "Name": "Content-Type",
@@ -2298,11 +2261,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wrUMVz5jhNCHH5xccgomuHdvYxRRmubVhlVnEt2s+dM=\""
+          "Value": "\"3WaAbt9ASvN7quDpigWzAcMkzCrzYhqnjGDfnEGM4HQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:20:43 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3WaAbt9ASvN7quDpigWzAcMkzCrzYhqnjGDfnEGM4HQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Neon.dg5hpaljqt.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Neon.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3WaAbt9ASvN7quDpigWzAcMkzCrzYhqnjGDfnEGM4HQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2312,7 +2312,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m2qdhp1bwk"
+          "Value": "dg5hpaljqt"
         },
         {
           "Name": "label",
@@ -2320,13 +2320,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wrUMVz5jhNCHH5xccgomuHdvYxRRmubVhlVnEt2s+dM="
+          "Value": "sha256-3WaAbt9ASvN7quDpigWzAcMkzCrzYhqnjGDfnEGM4HQ="
         }
       ]
     },
     {
       "Route": "css/Simplex.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2335,7 +2335,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280349"
+          "Value": "267761"
         },
         {
           "Name": "Content-Type",
@@ -2343,11 +2343,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sKzlLTPqC7KgHMeJXYJ8Odpy9xtDF8Pv4YL+7XPX9Mc=\""
+          "Value": "\"ofdp4SVFGqWtxh90lDRAVVsPGjCgdKgD7aucZFm3wrU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:33:00 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2357,13 +2357,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sKzlLTPqC7KgHMeJXYJ8Odpy9xtDF8Pv4YL+7XPX9Mc="
+          "Value": "sha256-ofdp4SVFGqWtxh90lDRAVVsPGjCgdKgD7aucZFm3wrU="
         }
       ]
     },
     {
-      "Route": "css/Simplex.wopto919bd.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
+      "Route": "css/Simplex.z70tq6bare.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Simplex.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2372,7 +2372,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280349"
+          "Value": "267761"
         },
         {
           "Name": "Content-Type",
@@ -2380,11 +2380,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sKzlLTPqC7KgHMeJXYJ8Odpy9xtDF8Pv4YL+7XPX9Mc=\""
+          "Value": "\"ofdp4SVFGqWtxh90lDRAVVsPGjCgdKgD7aucZFm3wrU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:33:00 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2394,7 +2394,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wopto919bd"
+          "Value": "z70tq6bare"
         },
         {
           "Name": "label",
@@ -2402,13 +2402,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sKzlLTPqC7KgHMeJXYJ8Odpy9xtDF8Pv4YL+7XPX9Mc="
+          "Value": "sha256-ofdp4SVFGqWtxh90lDRAVVsPGjCgdKgD7aucZFm3wrU="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2417,7 +2417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1346"
         },
         {
           "Name": "Content-Type",
@@ -2425,11 +2425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=\""
+          "Value": "\"Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2439,13 +2439,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs="
+          "Value": "sha256-Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k="
         }
       ]
     },
     {
-      "Route": "css/site.hdhjllpya4.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
+      "Route": "css/site.hz0fgozk9j.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2454,7 +2454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1417"
+          "Value": "1346"
         },
         {
           "Name": "Content-Type",
@@ -2462,11 +2462,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=\""
+          "Value": "\"Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2476,7 +2476,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hdhjllpya4"
+          "Value": "hz0fgozk9j"
         },
         {
           "Name": "label",
@@ -2484,13 +2484,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs="
+          "Value": "sha256-Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k="
         }
       ]
     },
     {
       "Route": "css/slate.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2499,7 +2499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "286855"
+          "Value": "274043"
         },
         {
           "Name": "Content-Type",
@@ -2507,11 +2507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hqbSSiFc0axSUC0zCV1bbul1L0SgyTCHEHlGYECO0Xc=\""
+          "Value": "\"SAwe1SaiT3OpZrhXJISb1au/mKO7JH7gyHkU4nlmRDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 19:17:45 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2521,13 +2521,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hqbSSiFc0axSUC0zCV1bbul1L0SgyTCHEHlGYECO0Xc="
+          "Value": "sha256-SAwe1SaiT3OpZrhXJISb1au/mKO7JH7gyHkU4nlmRDM="
         }
       ]
     },
     {
-      "Route": "css/slate.qbyje9q9yx.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
+      "Route": "css/slate.wqvop1adda.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\slate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2536,7 +2536,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "286855"
+          "Value": "274043"
         },
         {
           "Name": "Content-Type",
@@ -2544,11 +2544,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hqbSSiFc0axSUC0zCV1bbul1L0SgyTCHEHlGYECO0Xc=\""
+          "Value": "\"SAwe1SaiT3OpZrhXJISb1au/mKO7JH7gyHkU4nlmRDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 19:17:45 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2558,7 +2558,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qbyje9q9yx"
+          "Value": "wqvop1adda"
         },
         {
           "Name": "label",
@@ -2566,13 +2566,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hqbSSiFc0axSUC0zCV1bbul1L0SgyTCHEHlGYECO0Xc="
+          "Value": "sha256-SAwe1SaiT3OpZrhXJISb1au/mKO7JH7gyHkU4nlmRDM="
         }
       ]
     },
     {
       "Route": "css/Superhero.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2581,7 +2581,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "275417"
+          "Value": "263056"
         },
         {
           "Name": "Content-Type",
@@ -2589,11 +2589,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+DJrBOq6PDJynI38QQChX79eEEQqccDJyN0+5SJUMBA=\""
+          "Value": "\"qy6w9jkAAftjJt4zmTWPY8UDsLegllvxTWGR5REGPkU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:23:05 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2603,13 +2603,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+DJrBOq6PDJynI38QQChX79eEEQqccDJyN0+5SJUMBA="
+          "Value": "sha256-qy6w9jkAAftjJt4zmTWPY8UDsLegllvxTWGR5REGPkU="
         }
       ]
     },
     {
-      "Route": "css/Superhero.o8gnl3yxyi.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
+      "Route": "css/Superhero.fzj2xnqd3i.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\Superhero.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2618,7 +2618,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "275417"
+          "Value": "263056"
         },
         {
           "Name": "Content-Type",
@@ -2626,11 +2626,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+DJrBOq6PDJynI38QQChX79eEEQqccDJyN0+5SJUMBA=\""
+          "Value": "\"qy6w9jkAAftjJt4zmTWPY8UDsLegllvxTWGR5REGPkU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 18:23:05 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2640,7 +2640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o8gnl3yxyi"
+          "Value": "fzj2xnqd3i"
         },
         {
           "Name": "label",
@@ -2648,13 +2648,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+DJrBOq6PDJynI38QQChX79eEEQqccDJyN0+5SJUMBA="
+          "Value": "sha256-qy6w9jkAAftjJt4zmTWPY8UDsLegllvxTWGR5REGPkU="
         }
       ]
     },
     {
-      "Route": "css/WMSstyle.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
+      "Route": "css/WMSstyle.9szavqry95.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2663,7 +2663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "303877"
+          "Value": "290638"
         },
         {
           "Name": "Content-Type",
@@ -2671,48 +2671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=\""
+          "Value": "\"V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 17:54:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI="
-        }
-      ]
-    },
-    {
-      "Route": "css/WMSstyle.zex3814up8.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "303877"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Jan 2023 17:54:51 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2722,7 +2685,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zex3814up8"
+          "Value": "9szavqry95"
         },
         {
           "Name": "label",
@@ -2730,13 +2693,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fcgkza/fLJ3A4Z+G5yyD854UBvJYp61qyGKYqo2swqI="
+          "Value": "sha256-V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0="
+        }
+      ]
+    },
+    {
+      "Route": "css/WMSstyle.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\css\\WMSstyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V9UAhZk35k6ZhZgMnNidE3+QIb1fhiR9DOnO0fNPPG0="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2757,7 +2757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:56 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2781,7 +2781,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2802,7 +2802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:56 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5037,8 +5037,8 @@
       ]
     },
     {
-      "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
+      "Route": "js/site.bnkqy1y0r8.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5047,7 +5047,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "230"
+          "Value": "226"
         },
         {
           "Name": "Content-Type",
@@ -5055,11 +5055,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5069,7 +5069,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6b9nfc4n3r"
+          "Value": "bnkqy1y0r8"
         },
         {
           "Name": "label",
@@ -5077,13 +5077,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5092,7 +5092,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "230"
+          "Value": "226"
         },
         {
           "Name": "Content-Type",
@@ -5100,11 +5100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5114,13 +5114,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5129,7 +5129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "202385"
+          "Value": "192348"
         },
         {
           "Name": "Content-Type",
@@ -5137,11 +5137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Feb 2025 02:08:40 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5151,13 +5151,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5178,7 +5178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5202,7 +5202,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5223,7 +5223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5238,53 +5238,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Feb 2025 02:08:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gawgt6fljy"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5293,7 +5248,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "155764"
+          "Value": "155758"
         },
         {
           "Name": "Content-Type",
@@ -5301,11 +5256,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5315,13 +5270,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5342,7 +5297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5366,7 +5321,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5387,7 +5342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5402,8 +5357,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.o2wlpouf80.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5412,7 +5367,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "155764"
+          "Value": "155758"
         },
         {
           "Name": "Content-Type",
@@ -5420,11 +5375,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5434,7 +5389,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "etnb7xlipe"
+          "Value": "o2wlpouf80"
         },
         {
           "Name": "label",
@@ -5442,13 +5397,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5457,7 +5412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "68266"
+          "Value": "192348"
         },
         {
           "Name": "Content-Type",
@@ -5465,11 +5420,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5479,21 +5434,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9n0ta5ieki"
+          "Value": "zuvuklkj3l"
         },
         {
           "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5502,7 +5457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "68266"
+          "Value": "64548"
         },
         {
           "Name": "Content-Type",
@@ -5510,11 +5465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+          "Value": "\"cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5524,13 +5479,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+          "Value": "sha256-cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5551,7 +5506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5575,7 +5530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5596,7 +5551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5612,7 +5567,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5621,7 +5576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48494"
+          "Value": "48488"
         },
         {
           "Name": "Content-Type",
@@ -5629,11 +5584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+          "Value": "\"D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5643,13 +5598,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+          "Value": "sha256-D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5670,7 +5625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5694,7 +5649,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5715,7 +5670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5730,8 +5685,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.jfiryafmb9.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5740,7 +5695,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "48494"
+          "Value": "48488"
         },
         {
           "Name": "Content-Type",
@@ -5748,11 +5703,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+          "Value": "\"D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5762,7 +5717,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vxs71z90fw"
+          "Value": "jfiryafmb9"
         },
         {
           "Name": "label",
@@ -5770,13 +5725,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+          "Value": "sha256-D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.w0dq6fgsfq.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5785,7 +5740,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5227"
+          "Value": "64548"
         },
         {
           "Name": "Content-Type",
@@ -5793,11 +5748,56 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+          "Value": "\"cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0dq6fgsfq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5807,13 +5807,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+          "Value": "sha256-Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5834,7 +5834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5850,7 +5850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5871,7 +5871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5894,8 +5894,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.0lwmuixho7.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5904,7 +5904,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4028"
+          "Value": "4021"
         },
         {
           "Name": "Content-Type",
@@ -5912,11 +5912,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+          "Value": "\"dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5926,7 +5926,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "brwg1hntyu"
+          "Value": "0lwmuixho7"
         },
         {
           "Name": "label",
@@ -5934,13 +5934,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+          "Value": "sha256-dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5949,7 +5949,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4028"
+          "Value": "4021"
         },
         {
           "Name": "Content-Type",
@@ -5957,11 +5957,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+          "Value": "\"dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5971,13 +5971,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+          "Value": "sha256-dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5998,7 +5998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6022,7 +6022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6043,7 +6043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6058,8 +6058,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.xld2at289l.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6068,7 +6068,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5227"
+          "Value": "4897"
         },
         {
           "Name": "Content-Type",
@@ -6076,11 +6076,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+          "Value": "\"Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6090,7 +6090,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nynt4yc5xr"
+          "Value": "xld2at289l"
         },
         {
           "Name": "label",
@@ -6098,58 +6098,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "136072"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "48vr37mrsy"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+          "Value": "sha256-Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6158,7 +6113,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "229924"
+          "Value": "222911"
         },
         {
           "Name": "Content-Type",
@@ -6166,11 +6121,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+          "Value": "\"pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6180,13 +6135,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+          "Value": "sha256-pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6207,7 +6162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6223,7 +6178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6244,7 +6199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6267,8 +6222,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.7axo73ywwa.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6277,7 +6232,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78641"
+          "Value": "78635"
         },
         {
           "Name": "Content-Type",
@@ -6285,11 +6240,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+          "Value": "\"fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6299,7 +6254,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hjuzisly30"
+          "Value": "7axo73ywwa"
         },
         {
           "Name": "label",
@@ -6307,13 +6262,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+          "Value": "sha256-fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6322,7 +6277,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "78641"
+          "Value": "78635"
         },
         {
           "Name": "Content-Type",
@@ -6330,11 +6285,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+          "Value": "\"fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6344,13 +6299,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+          "Value": "sha256-fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6387,7 +6342,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6408,7 +6363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6431,8 +6386,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.p3y4typtg5.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6441,7 +6396,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "229924"
+          "Value": "222911"
         },
         {
           "Name": "Content-Type",
@@ -6449,11 +6404,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+          "Value": "\"pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6463,7 +6418,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u0biprgly9"
+          "Value": "p3y4typtg5"
         },
         {
           "Name": "label",
@@ -6471,13 +6426,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+          "Value": "sha256-pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6486,7 +6441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "136072"
+          "Value": "131637"
         },
         {
           "Name": "Content-Type",
@@ -6494,11 +6449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
+          "Value": "\"pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6508,13 +6463,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+          "Value": "sha256-pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +6490,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6551,7 +6506,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6572,7 +6527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6596,7 +6551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6605,7 +6560,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "58078"
+          "Value": "58072"
         },
         {
           "Name": "Content-Type",
@@ -6613,11 +6568,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6627,13 +6582,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6654,7 +6609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6670,7 +6625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6691,7 +6646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6714,8 +6669,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.m8so7gk97h.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6724,7 +6679,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "58078"
+          "Value": "58072"
         },
         {
           "Name": "Content-Type",
@@ -6732,11 +6687,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6746,7 +6701,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zu238p5lxg"
+          "Value": "m8so7gk97h"
         },
         {
           "Name": "label",
@@ -6754,13 +6709,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Route": "lib/bootstrap/dist/js/bootstrap.qb0o6k7924.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6769,7 +6724,52 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1153"
+          "Value": "131637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qb0o6k7924"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1131"
         },
         {
           "Name": "Content-Type",
@@ -6777,11 +6777,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+          "Value": "\"e9q0SUxz49cnGnDTlZR6nrKmjwjZh0D8IwiEPjGSmPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6791,13 +6791,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+          "Value": "sha256-e9q0SUxz49cnGnDTlZR6nrKmjwjZh0D8IwiEPjGSmPk="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/LICENSE.weyt030wr8",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Route": "lib/bootstrap/LICENSE.r0em2mp8p1",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6806,7 +6806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1153"
+          "Value": "1131"
         },
         {
           "Name": "Content-Type",
@@ -6814,11 +6814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+          "Value": "\"e9q0SUxz49cnGnDTlZR6nrKmjwjZh0D8IwiEPjGSmPk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6828,7 +6828,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "weyt030wr8"
+          "Value": "r0em2mp8p1"
         },
         {
           "Name": "label",
@@ -6836,13 +6836,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+          "Value": "sha256-e9q0SUxz49cnGnDTlZR6nrKmjwjZh0D8IwiEPjGSmPk="
         }
       ]
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6863,7 +6863,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6879,7 +6879,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6900,7 +6900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6924,7 +6924,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6945,7 +6945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6969,7 +6969,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6990,7 +6990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7006,7 +7006,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7027,7 +7027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7043,7 +7043,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7064,7 +7064,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7087,8 +7087,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Route": "lib/jquery/LICENSE.rkkog0v3vw.txt",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7097,7 +7097,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1641"
+          "Value": "1605"
         },
         {
           "Name": "Content-Type",
@@ -7105,11 +7105,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+          "Value": "\"Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7119,7 +7119,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "afgyafcsqt"
+          "Value": "rkkog0v3vw"
         },
         {
           "Name": "label",
@@ -7127,13 +7127,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+          "Value": "sha256-Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU="
         }
       ]
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7142,7 +7142,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1641"
+          "Value": "1605"
         },
         {
           "Name": "Content-Type",
@@ -7150,11 +7150,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+          "Value": "\"Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7164,13 +7164,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+          "Value": "sha256-Kz7YukJEI6ULAj5yhTDZS8OFz8fDKK1lo9/unHwFMcU="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7179,7 +7179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43184"
+          "Value": "42027"
         },
         {
           "Name": "Content-Type",
@@ -7187,11 +7187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+          "Value": "\"0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7201,13 +7201,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+          "Value": "sha256-0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Route": "lib/jquery-validation/dist/additional-methods.min.3rqbzy5c3x.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7216,7 +7216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18467"
+          "Value": "18464"
         },
         {
           "Name": "Content-Type",
@@ -7224,48 +7224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+          "Value": "\"0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7275,7 +7238,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sjab29p8z5"
+          "Value": "3rqbzy5c3x"
         },
         {
           "Name": "label",
@@ -7283,13 +7246,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+          "Value": "sha256-0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7298,7 +7261,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "43184"
+          "Value": "18464"
         },
         {
           "Name": "Content-Type",
@@ -7306,11 +7269,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+          "Value": "\"0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Yg/eibVdKyxkuVo1Qwh0DspoUCHvSbm/oOoYVz32BQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.o2fui7xoca.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7320,7 +7320,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wus95c49fh"
+          "Value": "o2fui7xoca"
         },
         {
           "Name": "label",
@@ -7328,13 +7328,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+          "Value": "sha256-0IXY0aA9BMZHp1azQSgmyQTG4+8NwTeDlKmjpQYrcXs="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7355,7 +7355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7379,7 +7379,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7400,7 +7400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7416,7 +7416,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7437,7 +7437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7461,7 +7461,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7482,7 +7482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7498,7 +7498,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7507,7 +7507,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1117"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -7515,11 +7515,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7529,13 +7529,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7544,7 +7544,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1117"
+          "Value": "1095"
         },
         {
           "Name": "Content-Type",
@@ -7552,11 +7552,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+          "Value": "\"85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7566,7 +7566,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x0q3zqp4vz"
+          "Value": "xzw0cte36n"
         },
         {
           "Name": "label",
@@ -7574,13 +7574,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+          "Value": "sha256-85iHjKszi4aWOL2sGurna/OsEbK4nabgtovBpkVzNEA="
         }
       ]
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7601,7 +7601,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7625,7 +7625,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7646,7 +7646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7662,7 +7662,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7683,7 +7683,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7699,7 +7699,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.v12ed9ioy0.js",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7720,7 +7720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7743,8 +7743,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.4ez5mqxv2b.txt",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7753,7 +7753,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "587"
+          "Value": "575"
         },
         {
           "Name": "Content-Type",
@@ -7761,48 +7761,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+          "Value": "\"bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Web Server Languages\\WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "587"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jan 2023 22:02:57 GMT"
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7812,7 +7775,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wqejeusuyq"
+          "Value": "4ez5mqxv2b"
         },
         {
           "Name": "label",
@@ -7820,7 +7783,44 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+          "Value": "sha256-bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 12:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJBFwc85FxNITit+4+dmzq5fRpbBEauvU+1eI+EpziQ="
         }
       ]
     }

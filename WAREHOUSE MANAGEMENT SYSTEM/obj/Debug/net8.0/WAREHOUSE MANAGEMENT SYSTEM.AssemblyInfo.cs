@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WAREHOUSE MANAGEMENT SYSTEM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0809af35829d428b00edb2eca6e60979e816f030")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5347681cdeb89fadced101880550dd7c281a52c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WAREHOUSE MANAGEMENT SYSTEM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WAREHOUSE MANAGEMENT SYSTEM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
