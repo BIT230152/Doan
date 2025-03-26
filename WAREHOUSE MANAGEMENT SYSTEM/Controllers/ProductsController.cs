@@ -39,6 +39,39 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
             return View("History", logs.ToList());
         }
 
+        public IActionResult InventoryHistory(string search = "")
+        {
+            var allLogs = InventoryLogHelper.ReadAllLogs();
+
+            if (!string.IsNullOrWhiteSpace(search))
+            {
+                allLogs = allLogs.Where(x =>
+                    x.Product.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+                    x.Action.Contains(search, StringComparison.OrdinalIgnoreCase))
+                    .ToList();
+            }
+
+            return View(allLogs);
+        }
+
+        // GET: Products/MovementHistory/5
+        public async Task<IActionResult> MovementHistory(Guid id)
+        {
+            var movements = await _context.StockMovements
+                .Include(s => s.Product)
+                .Where(s => s.ProductId == id)
+                .OrderByDescending(s => s.MovementDate)
+                .ToListAsync();
+
+            if (!movements.Any())
+            {
+                return View("NoMovementHistory");
+            }
+
+            return View(movements);
+        }
+
+
         // GET: Products
         [Authorize]
         /* public async Task<IActionResult> Index(string sortOrder, int pg = 1)
@@ -151,7 +184,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         // POST: Products/Create
         [HttpPost]
         [ValidateAntiForgeryToken]  //BE Part 
-        public async Task<IActionResult> Create([Bind("Name,Description,Count,EntryDate,ExitDate,Cost,Price,ImageUrl,CategoryId,Id")] Product product)
+        public async Task<IActionResult> Create([Bind("Name,Description,Count,Cost,Price,ImageUrl,CategoryId,Id")] Product product)
         {
             if (ModelState.IsValid)
             {

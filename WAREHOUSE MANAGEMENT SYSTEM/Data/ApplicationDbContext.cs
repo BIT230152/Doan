@@ -27,6 +27,8 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Data
                 .HasOne(p => p.Category)
                 .WithMany(c => c.Products)
                 .HasForeignKey(p => p.CategoryId);
+
         }
+        public DbSet<StockMovement> StockMovements { get; set; }
     }
 }

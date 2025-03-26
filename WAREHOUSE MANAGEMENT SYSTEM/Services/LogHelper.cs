@@ -27,6 +27,8 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Services
                 {
                     writer.WriteLine(logEntry);
                 }
+
+
             }
             catch (Exception ex)
             {

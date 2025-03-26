@@ -1,0 +1,57 @@
+﻿@model List<WAREHOUSE_MANAGEMENT_SYSTEM.Services.InventoryLogHelper.InventoryLogEntry>
+
+@{
+    ViewData["Title"] = "Lịch Sử Nhập/Xuất Kho";
+}
+
+<div class="container mt-4">
+    <h2>@ViewData["Title"]</h2>
+
+    <form method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="search" class="form-control"
+                   placeholder="Tìm theo tên sản phẩm hoặc loại giao dịch..."
+                   value="@Context.Request.Query["search"]" />
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-search"></i> Tìm kiếm
+                </button>
+            </div>
+        </div>
+    </form>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">Không tìm thấy dữ liệu phù hợp</div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+                <thead class="thead-light">
+                    <tr>
+                        <th>Thời gian</th>
+                        <th>Loại giao dịch</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Số lượng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var log in Model)
+                    {
+                        <tr>
+                            <td>@log.Time</td>
+                            <td>
+                                <span class="badge @(log.Action == "NHAP" ? "badge-success" : "badge-danger")">
+                                    @log.Action
+                                </span>
+                            </td>
+                            <td>@log.Product</td>
+                            <td>@log.Quantity</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

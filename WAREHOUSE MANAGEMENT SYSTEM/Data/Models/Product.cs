@@ -2,6 +2,7 @@
 {
     using System;
     using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
     using System.Runtime.InteropServices;
 
     public class Product : BaseModel
@@ -18,29 +19,23 @@
 
         [Required]
         [Display(Name = "Số lượng")]
-        [Range(0.01, double.MaxValue, ErrorMessage = "Số lượng sản phẩm không thể dưới 0.01")]
+        [Range(0, double.MaxValue, ErrorMessage = "Số lượng sản phẩm không thể dưới 0")]
         public int Count { get; set; }
 
-        [Required]
-        [Display(Name = "Ngày nhập")]
-        [DataType(DataType.Date)]
-        public DateTime EntryDate { get; set; }
-
-        [Required]
-        [Display(Name = "Ngày xuất")]
-        [DataType(DataType.Date)]
-        public DateTime ExitDate { get; set; }
+        
 
         [Required]
         [Display(Name = "Giá mua")]
         [DisplayFormat(DataFormatString = "{0:N0} VNĐ", ApplyFormatInEditMode = false)]
-        [Range(0.01, double.MaxValue, ErrorMessage = "Giá mua không thể dưới 0.01")]
+        [Range(0, double.MaxValue, ErrorMessage = "Giá mua không thể dưới 0")]
+        [Column(TypeName = "decimal(18, 2)")]
         public decimal Cost { get; set; }
 
         [Required]
         [Display(Name = "Giá bán")]
         [DisplayFormat(DataFormatString = "{0:N0} VNĐ", ApplyFormatInEditMode = false)]
-        [Range(0.01, double.MaxValue, ErrorMessage = "Giá bán không thể dưới 0.01")]
+        [Range(0, double.MaxValue, ErrorMessage = "Giá bán không thể dưới 0")]
+        [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
 
 

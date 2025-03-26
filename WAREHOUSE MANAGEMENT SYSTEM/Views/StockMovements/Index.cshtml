@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WAREHOUSE_MANAGEMENT_SYSTEM.Data.Models.StockMovement>
+
+@{
+    ViewData["Title"] = "Lịch sử giao dịch kho";
+}
+
+<h1>Lịch sử giao dịch kho</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Tạo giao dịch mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Loại giao dịch</th>
+            <th>Số lượng</th>
+            <th>Ngày giao dịch</th>
+            <th>Ghi chú</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.MovementType)</td>
+                <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                <td>@Html.DisplayFor(modelItem => item.MovementDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Note)</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
