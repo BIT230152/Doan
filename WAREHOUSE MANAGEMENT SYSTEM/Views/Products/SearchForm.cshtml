@@ -1,24 +1,36 @@
-﻿<h4>Search for a Product</h4>
-<hr />
-<div class="row container">
-    <div class="col-md-4">
-        <form asp-action="ShowSearchResults">
-           
-            <div class="form-group">
-                <label for="SearchProduct" class="control-label"></label>
-                <input name="SearchProduct" class="form-control" />
-                
-            </div>
-  
-            <div class="form-group">
-                <input type="submit" value="Search" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
+﻿@{
+    ViewData["Title"] = "Tìm kiếm sản phẩm";
+}
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div class="container-fluid py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-white">
+                    <h3 class="card-title mb-0">Tìm kiếm sản phẩm</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="ShowSearchResults">
+                        <div class="mb-3">
+                            <label for="SearchProduct" class="form-label">Nhập tên sản phẩm cần tìm</label>
+                            <div class="input-group">
+                                <input name="SearchProduct" class="form-control" placeholder="Nhập từ khóa tìm kiếm..." />
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-search"></i> Tìm kiếm
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+
+                    <div class="mt-4">
+                        <a asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left"></i> Quay lại danh sách
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 

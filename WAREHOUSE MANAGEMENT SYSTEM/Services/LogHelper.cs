@@ -9,11 +9,11 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Services
     {
         private static readonly string logFilePath = "Logs/HistoryLog.txt";
 
-        public static void WriteLog(string action, string productName, int quantity)
+        public static void WriteLog(string action, Guid productId, string productName, int Count)
         {
             try
             {
-                string logEntry = $"{DateTime.Now:yyyy-MM-dd HH:mm:ss} | {action} | Sản phẩm: {productName} | Số lượng: {quantity}";
+                string logEntry = $"{DateTime.Now:yyyy-MM-dd HH:mm:ss} | {action} | ID: {productId} | Sản phẩm: {productName} | Số lượng: {Count}";
 
                 // Đảm bảo thư mục Logs tồn tại
                 string directory = Path.GetDirectoryName(logFilePath);

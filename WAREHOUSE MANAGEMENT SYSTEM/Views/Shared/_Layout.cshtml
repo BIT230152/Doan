@@ -5,95 +5,315 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - WAREHOUSE_MANAGEMENT_SYSTEM</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-   
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.0/dist/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <style>
+        :root {
+            --navbar-height: 60px;
+            --footer-height: 60px;
+        }
+
         body {
             background-image: url('https://img.lovepik.com/bg/20240403/Enhance-Warehouse-Efficiency-with-3D-Illustrated-Logistics-Robot-System-and_5790591_wh300.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            font-size: 14px;
+        }
+
+        /* Navbar Styles */
+        .navbar {
+            background-color: rgba(255, 255, 255, 0.95) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            height: var(--navbar-height);
+            padding: 0.5rem 1rem;
+        }
+
+        .navbar-brand {
+            font-size: 1.25rem;
+            color: #2c3e50 !important;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .nav-link {
+            color: #2c3e50 !important;
+            font-weight: 500;
+            padding: 0.5rem 0.75rem;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .nav-link i {
+            margin-right: 0.5rem;
+            width: 1.25rem;
+            text-align: center;
+        }
+
+        .nav-link:hover {
+            background-color: #f8f9fa;
+            color: #3498db !important;
+        }
+
+        .nav-link.active {
+            background-color: #3498db;
+            color: white !important;
+        }
+
+        /* Card Styles */
+        .card {
+            background-color: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border: none;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            margin-bottom: 1rem;
+        }
+
+        /* Footer Styles */
+        .footer {
+            background-color: rgba(255, 255, 255, 0.95) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+            height: var(--footer-height);
+            display: flex;
+            align-items: center;
+        }
+
+        /* Main Content */
+        main {
+            flex: 1;
+            padding-top: calc(var(--navbar-height) + 1rem);
+            padding-bottom: calc(var(--footer-height) + 1rem);
+            width: 100%;
+        }
+
+        /* Button Styles */
+        .btn {
+            padding: 0.375rem 0.75rem;
+            font-size: 0.875rem;
+            border-radius: 0.25rem;
+        }
+
+        .btn-primary {
+            background-color: #3498db;
+            border-color: #3498db;
+        }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+            border-color: #2980b9;
+        }
+
+        /* Text Styles */
+        .text-white {
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        /* Responsive Styles */
+        @@media (max-width: 991.98px) {
+            .navbar-collapse {
+                background-color: rgba(255, 255, 255, 0.98);
+                padding: 1rem;
+                border-radius: 0.5rem;
+                margin-top: 0.5rem;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+
+            .nav-link {
+                padding: 0.75rem 1rem;
+            }
+
+            .navbar-brand {
+                font-size: 1.1rem;
+            }
+        }
+
+        @@media (max-width: 767.98px) {
+            body {
+                font-size: 13px;
+            }
+
+            .container {
+                padding-left: 0.75rem;
+                padding-right: 0.75rem;
+            }
+
+            .card {
+                margin-bottom: 0.75rem;
+            }
+
+            .table-responsive {
+                margin: 0 -0.75rem;
+            }
+
+            .btn {
+                padding: 0.5rem 1rem;
+                font-size: 0.875rem;
+                width: 100%;
+                margin-bottom: 0.5rem;
+            }
+
+            .btn-group {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+            }
+
+            .btn-group > .btn {
+                margin-bottom: 0.5rem;
+            }
+        }
+
+        @@media (max-width: 575.98px) {
+            :root {
+                --navbar-height: 50px;
+                --footer-height: 50px;
+            }
+
+            body {
+                font-size: 12px;
+            }
+
+            .navbar-brand {
+                font-size: 1rem;
+            }
+
+            .nav-link {
+                padding: 0.5rem 0.75rem;
+            }
+
+            .nav-link i {
+                margin-right: 0.25rem;
+                width: 1rem;
+            }
+
+            .footer {
+                font-size: 0.75rem;
+            }
+        }
+
+        /* Dark Mode Support */
+        @@media (prefers-color-scheme: dark) {
+            .navbar, .footer {
+                background-color: rgba(33, 37, 41, 0.95) !important;
+            }
+
+            .card {
+                background-color: rgba(33, 37, 41, 0.95);
+            }
+
+            .nav-link {
+                color: #e9ecef !important;
+            }
+
+            .nav-link:hover {
+                background-color: rgba(255, 255, 255, 0.1);
+                color: #3498db !important;
+            }
+
+            .navbar-collapse {
+                background-color: rgba(33, 37, 41, 0.98);
+            }
         }
     </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom box-shadow mb-3 fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
             <div class="container">
-                <a class="navbar-brand fw-bold text-primary" asp-area="" asp-controller="Home" asp-action="Index">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     <i class="fas fa-warehouse"></i> PHẦN MỀM QUẢN LÝ KHO
-                    </a>
+                </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                @if (User.Identity.IsAuthenticated)
-                {
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                               <a class="nav-link btn-primary" asp-area="" asp-controller="Home" asp-action="Privacy">Thống kê</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Categories" asp-action="Index">Phân loại</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="Index">Sản phẩm</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link btn-primary" asp-area="" asp-controller="Products" asp-action="SearchForm">Tìm kiếm</a>
-                        </li>
-                        <li class="nav-item">
-                                <a class="nav-link btn-primary" asp-controller="Products" asp-action="History">Lịch Sử</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="StockMovements" asp-action="Index">Giao dịch kho</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" asp-controller="Products" asp-action="InventoryHistory">Lịch sử kho</a>
-                            </li>
-                    </ul>
-                    <partial name="_LoginPartial" />
-                </div>
-                }
-                else
-                {
-                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                        <ul class="navbar-nav flex-grow-1"></ul>
-                            
-                        <partial name="_LoginPartial" />
-                    </div>
 
-                }
+                <div class="collapse navbar-collapse" id="navbarMain">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <ul class="navbar-nav me-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                    <i class="fas fa-home"></i> Trang chủ
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Privacy">
+                                    <i class="fas fa-chart-bar"></i> Thống kê
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Categories" asp-action="Index">
+                                    <i class="fas fa-tags"></i> Phân loại
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Products" asp-action="Index">
+                                    <i class="fas fa-box"></i> Sản phẩm
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Products" asp-action="SearchForm">
+                                    <i class="fas fa-search"></i> Tìm kiếm
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Products" asp-action="History">
+                                    <i class="fas fa-history"></i> Lịch sử
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="StockMovements" asp-action="Index">
+                                    <i class="fas fa-exchange-alt"></i> Giao dịch kho
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Products" asp-action="InventoryHistory">
+                                    <i class="fas fa-clipboard-list"></i> Lịch sử kho
+                                </a>
+                            </li>
+                        </ul>
+                        <partial name="_LoginPartial" />
+                    }
+                    else
+                    {
+                        <ul class="navbar-nav ms-auto">
+                            <partial name="_LoginPartial" />
+                        </ul>
+                    }
+                </div>
             </div>
         </nav>
     </header>
-    <div class="container mt-3 ">
-        <main role="main" class="pb-5">
-            @RenderBody()
-        </main>
-    </div>
 
-    <!-- Footer -->
-    <footer class="border-top footer bg-light text-dark mt-4 fixed-bottom">
-        <div class="container text-center py-3">
-            &copy; @DateTime.Now.Year - WAREHOUSE_MANAGEMENT_SYSTEM -
-            <a class="text-decoration-none text-primary" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <main role="main">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container text-center">
+            <span class="text-muted">
+                &copy; @DateTime.Now.Year - WAREHOUSE_MANAGEMENT_SYSTEM -
+                <a class="text-decoration-none text-primary" asp-controller="Home" asp-action="Privacy">
+                    <i class="fas fa-shield-alt"></i> Privacy
+                </a>
+            </span>
         </div>
     </footer>
 
-    <!-- Bootstrap & jQuery -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
-    
-    <!-- Custom Scripts -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

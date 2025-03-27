@@ -4,35 +4,65 @@
     ViewData["Title"] = "Lịch sử giao dịch kho";
 }
 
-<h1>Lịch sử giao dịch kho</h1>
+<div class="container-fluid py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 mb-0 text-gray-800 text-white">Lịch sử giao dịch kho</h1>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Tạo giao dịch mới
+        </a>
+    </div>
 
-<p>
-    <a asp-action="Create" class="btn btn-success">Tạo giao dịch mới</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>Sản phẩm</th>
-            <th>Loại giao dịch</th>
-            <th>Số lượng</th>
-            <th>Ngày giao dịch</th>
-            <th>Ghi chú</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
-                <td>@Html.DisplayFor(modelItem => item.MovementType)</td>
-                <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
-                <td>@Html.DisplayFor(modelItem => item.MovementDate)</td>
-                <td>@Html.DisplayFor(modelItem => item.Note)</td>
-                <td>
-                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Chi tiết</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Sản phẩm</th>
+                            <th>Loại giao dịch</th>
+                            <th>Số lượng</th>
+                            <th>Ngày giao dịch</th>
+                            <th>Quốc gia</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
+                                <td>
+                                    <span class="badge @(item.MovementType == 0 ? "bg-success" : "bg-danger")">
+                                        @(item.MovementType == 0 ? "Nhập kho" : "Xuất kho")
+                                    </span>
+                                </td>
+                                <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                                <td>@Html.DisplayFor(modelItem => item.MovementDate)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Country)</td>
+                                <td>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">
+                                        <i class="fas fa-info-circle"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: none;
+        border-radius: 10px;
+    }
+    .table th {
+        font-weight: 600;
+        color: #495057;
+    }
+    .badge {
+        padding: 0.5em 0.75em;
+    }
+</style>

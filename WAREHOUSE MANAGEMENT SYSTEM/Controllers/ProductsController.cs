@@ -41,12 +41,12 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
 
         public IActionResult InventoryHistory(string search = "")
         {
-            var allLogs = InventoryLogHelper.ReadAllLogs();
+            var allLogs = InventoryLogHelper.GetHistory(); // Thay đổi từ ReadAllLogs() sang GetHistory()
 
             if (!string.IsNullOrWhiteSpace(search))
             {
                 allLogs = allLogs.Where(x =>
-                    x.Product.Contains(search, StringComparison.OrdinalIgnoreCase) ||
+                    x.ProductName.Contains(search, StringComparison.OrdinalIgnoreCase) || // Sửa từ Product sang ProductName
                     x.Action.Contains(search, StringComparison.OrdinalIgnoreCase))
                     .ToList();
             }
@@ -193,7 +193,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
                 await _context.SaveChangesAsync();
 
                 // Ghi vào file log
-                LogHelper.WriteLog("Thêm", product.Name, product.Count);
+                LogHelper.WriteLog("Thêm", product.Id, product.Name, product.Count);
 
                 return RedirectToAction(nameof(Index));
 
@@ -244,7 +244,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
                     await _context.SaveChangesAsync();
 
                     // Ghi log thay đổi
-                    LogHelper.WriteLog("Sửa", product.Name, product.Count);
+                    LogHelper.WriteLog("Sửa", product.Id, product.Name, product.Count);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -291,7 +291,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
             if (product != null)
             {
                 // Ghi log trước khi xóa
-                LogHelper.WriteLog("Xóa", product.Name, product.Count);
+                LogHelper.WriteLog("Xóa", product.Id, product.Name, product.Count);
 
                 _context.Products.Remove(product);
                 await _context.SaveChangesAsync();

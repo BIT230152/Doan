@@ -1846,10 +1846,10 @@ C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\static
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WAREHOUSE MANAGEMENT SYSTEM.props
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WAREHOUSE MANAGEMENT SYSTEM.props
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\WAREHOUS.4EA7212F.Up2Date
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\WAREHOUSE MANAGEMENT SYSTEM.dll
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\refint\WAREHOUSE MANAGEMENT SYSTEM.dll
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\WAREHOUSE MANAGEMENT SYSTEM.pdb
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\WAREHOUSE MANAGEMENT SYSTEM.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\ref\WAREHOUSE MANAGEMENT SYSTEM.dll
+C:\Users\ASUS\Downloads\Doan\WAREHOUSE MANAGEMENT SYSTEM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

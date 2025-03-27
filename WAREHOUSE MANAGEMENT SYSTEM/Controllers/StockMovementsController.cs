@@ -41,7 +41,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
         // POST: StockMovements/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductId,MovementType,Quantity,MovementDate,Note")] StockMovement movement)
+        public async Task<IActionResult> Create([Bind("ProductId,MovementType,Quantity,MovementDate,Country")] StockMovement movement)
         {
             if (ModelState.IsValid)
             {
@@ -73,13 +73,9 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Controllers
                 // Ghi log
               
 
-                InventoryLogHelper.WriteLog(
-            movement.MovementType == MovementType.Import ? "NHAP" : "XUAT",
-            product.Name,
-            movement.Quantity
-        );
+                InventoryLogHelper.LogMovement(movement, product); // Ghi log với Country
+                return RedirectToAction("Index");
 
-                return RedirectToAction(nameof(Index));
             }
             ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name", movement.ProductId);
             return View(movement);

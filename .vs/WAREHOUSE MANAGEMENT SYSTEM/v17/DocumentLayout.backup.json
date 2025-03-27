@@ -3,80 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\Doan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\products\\inventoryhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\products\\inventoryhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\services\\inventoryloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\services\\inventoryloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\logs\\inventorylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\logs\\inventorylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\services\\inventoryloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\services\\inventoryloghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\products\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\products\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\services\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\services\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\data\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\data\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\stockmovementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\stockmovements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\stockmovements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\stockmovements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\stockmovements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\data\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\data\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|c:\\users\\asus\\downloads\\doan\\warehouse management system\\views\\products\\inventoryhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\products\\inventoryhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,46 +54,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InventoryLog.txt",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Logs\\InventoryLog.txt",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Logs\\InventoryLog.txt",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Logs\\InventoryLog.txt",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Logs\\InventoryLog.txt",
+              "DocumentIndex": 0,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-26T16:04:46.916Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T14:57:06.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventoryHistory.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml*",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T16:02:33.625Z",
+              "DocumentIndex": 1,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:56:53.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InventoryLogHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs*",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwDkAAAABAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:58:47.039Z",
+              "WhenOpened": "2025-03-27T11:41:55.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMovementsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:41:48.113Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "InventoryLogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\InventoryLogHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:41:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\InventoryHistory.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T10:18:24.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "History.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\History.cshtml",
               "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\History.cshtml",
@@ -149,201 +137,7 @@
               "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Products\\History.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T15:51:16.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\LogHelper.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\LogHelper.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Services\\LogHelper.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Services\\LogHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:37:58.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T15:37:40.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Program.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Program.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:37:33.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Index.cshtml",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Index.cshtml",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T15:37:20.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Create.cshtml",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Create.cshtml",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\StockMovements\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T15:36:56.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StockMovementsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\StockMovementsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:34:20.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StockMovement.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\StockMovement.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\StockMovement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\StockMovement.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\StockMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:12:58.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:09:38.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:09:26.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:09:23.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwDgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:09:03.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Product.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:08:20.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Category.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:08:12.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\BaseModel.cs",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Data\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:08:00.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\appsettings.json",
-              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Doan\\WAREHOUSE MANAGEMENT SYSTEM\\appsettings.json",
-              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T09:28:46.915Z"
+              "WhenOpened": "2025-03-27T10:18:20.039Z"
             }
           ]
         },

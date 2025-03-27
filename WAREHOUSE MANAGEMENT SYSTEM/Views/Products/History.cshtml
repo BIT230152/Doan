@@ -1,41 +1,70 @@
 ﻿@model List<string>
 
-
 @{
-    ViewData["Title"] = "History";
+    ViewData["Title"] = "Lịch sử thay đổi sản phẩm";
 }
-<h1 class="text-center text-white">Lịch sử thay đổi sản phẩm</h1>
-<h4 class="text-white">Lịch sử thay đổi sản phẩm</h4>
-<hr />
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Thời gian</th>
-            <th>Hành động</th>
-            <th>Sản phẩm</th>
-            <th>Số lượng</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var log in Model)
-        {
-            var parts = log.Split('|');
-            if (parts.Length == 4)
-            {
-                <tr>
-                    <td>@parts[0]</td>
-                    <td>@parts[1]</td>
-                    <td>@parts[2]</td>
-                    <td>@parts[3]</td>
-                </tr>
-            }
-            else
-            {
-                <tr>
-                    <td colspan="4">@log</td>
-                </tr>
-            }
-        }
-    </tbody>
-</table>
+<div class="container-fluid py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 mb-0 text-gray-800 text-white">Lịch sử thay đổi sản phẩm</h1>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Thời gian</th>
+                            <th>Hành động</th>
+                            <th>ID sản phẩm</th>
+                            <th>Sản phẩm</th>
+                            <th>Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var log in Model)
+                        {
+                            var parts = log.Split('|');
+                            if (parts.Length == 5)
+                            {
+                                <tr>
+                                    <td>@parts[0]</td>
+                                    <td>
+                                        <span class="badge @(parts[1].Contains("thêm") ? "bg-success" : 
+                                                           parts[1].Contains("xóa") ? "bg-danger" : "bg-primary")">
+                                            @parts[1]
+                                        </span>
+                                    </td>
+                                    <td>@parts[2].Replace(" ID: ", "")</td>
+                                    <td>@parts[3]</td>
+                                    <td>@parts[4]</td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="5" class="text-center text-muted">@log</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: none;
+        border-radius: 10px;
+    }
+    .table th {
+        font-weight: 600;
+        color: #495057;
+    }
+    .badge {
+        padding: 0.5em 0.75em;
+    }
+</style>

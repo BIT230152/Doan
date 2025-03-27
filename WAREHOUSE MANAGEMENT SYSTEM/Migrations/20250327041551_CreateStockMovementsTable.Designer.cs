@@ -12,8 +12,8 @@ using WAREHOUSE_MANAGEMENT_SYSTEM.Data;
 namespace WAREHOUSE_MANAGEMENT_SYSTEM.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250326160335_AddStockMovement")]
-    partial class AddStockMovement
+    [Migration("20250327041551_CreateStockMovementsTable")]
+    partial class CreateStockMovementsTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -285,15 +285,16 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<string>("Country")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<DateTime>("MovementDate")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("MovementType")
                         .HasColumnType("int");
-
-                    b.Property<string>("Note")
-                        .HasMaxLength(500)
-                        .HasColumnType("nvarchar(500)");
 
                     b.Property<Guid>("ProductId")
                         .HasColumnType("uniqueidentifier");

@@ -17,6 +17,7 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Data
         public DbSet<Product> Products { get; set; }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<StockMovement> StockMovements { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -29,6 +30,6 @@ namespace WAREHOUSE_MANAGEMENT_SYSTEM.Data
                 .HasForeignKey(p => p.CategoryId);
 
         }
-        public DbSet<StockMovement> StockMovements { get; set; }
+        
     }
 }

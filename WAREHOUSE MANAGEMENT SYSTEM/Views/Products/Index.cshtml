@@ -2,188 +2,141 @@
 
 @{
     ViewData["Title"] = "Index";
-
-
     int intSno = 0;
-
     Pager pager = new Pager();
-
     int pageNo = 0;
 
     if (ViewBag.Pager != null)
     {
         pager = ViewBag.Pager;
         pageNo = pager.CurrentPage;
-
-
     }
 }
 
-<h1>Products</h1>
+<div class="container-fluid py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 mb-0 text-gray-800 text-white">Quản lý Sản phẩm</h1>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Thêm sản phẩm mới
+        </a>
+    </div>
 
-<div class="container">
-    @if (pager.TotalPages > 0)
-    {
-        <ul class="pagination justify-content-end">
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.Name)</th>
+                            <th>@Html.DisplayNameFor(model => model.Description)</th>
+                            <th>@Html.DisplayNameFor(model => model.Count)</th>
+                            <th>@Html.DisplayNameFor(model => model.Cost)</th>
+                            <th>@Html.DisplayNameFor(model => model.Price)</th>
+                            <th>@Html.DisplayNameFor(model => model.ImageUrl)</th>
+                            <th>@Html.DisplayNameFor(model => model.Category)</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Count)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Cost)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                                <td>
+                                    <img src="@Url.Content(item.ImageUrl)" alt="Product Image" class="img-thumbnail" style="width:100px;height:100px;object-fit:cover" />
+                                </td>
+                                <td>@Html.DisplayFor(modelItem => item.Category.Name)</td>
+                                <td>
+                                    <div class="btn-group">
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">
+                                            <i class="fas fa-info-circle"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Bạn có chắc chắn muốn xóa sản phẩm: @item.Name')" class="btn btn-sm btn-outline-danger">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
 
-            @if (pager.CurrentPage > 1)
+            @if (pager.TotalPages > 0)
             {
-                <li class="page-item">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="1">First</a>
+                <nav aria-label="Page navigation" class="mt-4">
+                    <ul class="pagination justify-content-center">
+                        @if (pager.CurrentPage > 1)
+                        {
+                            <li class="page-item">
+                                <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="1">
+                                    <i class="fas fa-angle-double-left"></i>
+                                </a>
+                            </li>
+                            <li class="page-item">
+                                <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage - 1)">
+                                    <i class="fas fa-angle-left"></i>
+                                </a>
+                            </li>
+                        }
 
+                        @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
+                        {
+                            <li class="page-item @(pge == pager.CurrentPage ? "active" : "")">
+                                <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@pge">@pge</a>
+                            </li>
+                        }
 
-
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage - 1)">Previous</a>
-
-                </li>
+                        @if (pager.CurrentPage < pager.TotalPages)
+                        {
+                            <li class="page-item">
+                                <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage + 1)">
+                                    <i class="fas fa-angle-right"></i>
+                                </a>
+                            </li>
+                            <li class="page-item">
+                                <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.TotalPages)">
+                                    <i class="fas fa-angle-double-right"></i>
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </nav>
             }
-
-
-            @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
-            {
-                <li class="page-item @(pge == pager.CurrentPage ? "active" : "")">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@pge">@pge</a>
-
-                </li>
-
-            }
-            @if (pager.CurrentPage < pager.TotalPages)
-            {
-                <li class="page-item">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage  + 1)">Next</a>
-
-
-
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.TotalPages)">Last</a>
-
-                </li>
-
-            }
-
-
-        </ul>
-    }
+        </div>
+    </div>
 </div>
 
-<p>
-    <button type="button" class="btn btn-primary "><a asp-action="Create">Create New</a></button>
-    
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Count)
-            </th>
-            
-            <th>
-                @Html.DisplayNameFor(model => model.Cost)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            
-            <th>
-                @Html.DisplayNameFor(model => model.ImageUrl)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Category)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-           
-
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Count)
-            </td>
-            
-
-            <td>
-                @Html.DisplayFor(modelItem => item.Cost)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            
-
-            <td>
-                <img src="@Url.Content(item.ImageUrl)" alt="not found" style="width:200px;height:200px" />
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category.Name)
-            </td>
-            <td>
-              
-                <button type="button" class="btn btn-outline-success"><a asp-action="Edit" asp-route-id="@item.Id">Edit</a> </button>
-                <button type="button" class="btn btn-warning"><a asp-action="Details" asp-route-id="@item.Id">Details</a></button>
-                <button type="button" class="btn btn-danger"><a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure: @item.Name')">Delete</a> </button>
-               
-               
-              
-            </td>
-        </tr>
-            }
-        </tbody>
-</table>
-
-<div class="container">
-    @if (pager.TotalPages > 0)
-    {
-        <ul class="pagination justify-content-end">
-
-            @if (pager.CurrentPage > 1)
-            {
-                <li class="page-item">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="1">First</a>
-
-
-
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage - 1)">Previous</a>
-
-                </li>
-            }
-
-
-            @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
-            {
-                <li class="page-item @(pge == pager.CurrentPage ? "active" : "")">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@pge">@pge</a>
-
-                </li>
-
-            }
-            @if (pager.CurrentPage < pager.TotalPages)
-            {
-                <li class="page-item">
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.CurrentPage  + 1)">Next</a>
-
-
-
-                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-pg="@(pager.TotalPages)">Last</a>
-
-                </li>
-
-            }
-
-
-        </ul>
+<style>
+    .card {
+        border: none;
+        border-radius: 10px;
     }
-</div>
+    .table th {
+        font-weight: 600;
+        color: #495057;
+    }
+    .btn-group .btn {
+        padding: 0.25rem 0.5rem;
+    }
+    .img-thumbnail {
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .pagination .page-link {
+        border: none;
+        margin: 0 2px;
+        border-radius: 5px;
+    }
+    .pagination .page-item.active .page-link {
+        background-color: #007bff;
+    }
+</style>
 

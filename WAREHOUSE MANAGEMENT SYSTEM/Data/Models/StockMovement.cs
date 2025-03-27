@@ -24,9 +24,11 @@
         [Display(Name = "Ngày giao dịch")]
         public DateTime MovementDate { get; set; } = DateTime.Now;
 
-        [Display(Name = "Ghi chú")]
-        [MaxLength(500)]
-        public string Note { get; set; }
+       
+        [Required]
+        [Display(Name = "Quốc gia")]
+        [MaxLength(100)]
+        public string Country { get; set; } // Thay thế cho Note
     }
 
     public enum MovementType
